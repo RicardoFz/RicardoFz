@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RicardoFz.RicardoFz)
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoFz)](https://github.com/anuraghazra/github-readme-stats)
+
